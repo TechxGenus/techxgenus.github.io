@@ -1,4 +1,4 @@
-- <strong>Hao Jiang</strong>, Qi Liu*, Rui Li, Shengyu Ye, Shijin Wang. CursorCore: Assist Programming through Aligning Anything, arXiv preprint.
+- <strong>Hao Jiang</strong>, Qi Liu*, Rui Li, Shengyu Ye, Shijin Wang. CursorCore: Assist Programming through Aligning Anything, The Forty-second International Conference on Machine Learning (ICML'2025).
 
 - <strong>Hao Jiang</strong>, Qi Liu*, Rui Li, Yuze Zhao, Yixiao Ma, Shengyu Ye, Junyu Lu, Yu Su. VERSE: Verification-based Self-Play for Code Instructions, The 39th AAAI Conference on Artificial Intelligence (AAAI'2025).
 
