@@ -7,9 +7,12 @@
 
 I am a Master student at the University of Science and Technology of China (USTC), supervised by Prof. Qi Liu. Previously, I completed my undergraduate studies at the School of the Gifted Young, USTC. Currently, my primary research focuses on large language models and code intelligence.
 
-#### Education
-M.E., Computer Science and Technology, University of Science and Technology of China, 2023—2026 (expected).
-B.E., School of the Gifted Young, University of Science and Technology of China, 2019—2023.
+#### Educations
+- M.E., Computer Science and Technology, University of Science and Technology of China, 2023—2026 (expected).
+- B.E., School of the Gifted Young, University of Science and Technology of China, 2019—2023.
 
 #### Research Interests
 Code Intelligence; Large Language Model; AI Alignment; Efficient Inference
+
+#### Internships
+- 2022.09 - 2023.06, MSRA, Natural Language Processing Group, Beijing.
